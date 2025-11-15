@@ -16,7 +16,7 @@ A minimal healthcare application that uses **Google Gemini AI**, **Google Maps G
 
 - Python 3.8+
 - Google Gemini API Key ([Get it here](https://ai.google.dev/))
-- Sarvam AI API Key ([Get it here](https://www.sarvam.ai/))
+- Sarvam AI API Key ([Get it here](https://dashboard.sarvam.ai/speech-to-text?utm_source=Vinayak%20Worksghops&utm_medium=social&utm_campaign=adoption))
 
 ### Installation
 
